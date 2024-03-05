@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineer from Costa Rica!</h3>
+<h3 align="center">I am Victor, a passionate software engineer from Costa Rica!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
